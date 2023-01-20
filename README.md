@@ -35,5 +35,23 @@ Para um mesmo cargo podemos ter perfis e responsabilidades diferentes:
 * Testes manuais
 * Testes automatizados: UI/Interface, APIs e Performance/Desempenho.
 
+# O que é teste?
+
+O teste de software é uma maneira de avaliar a qualidade do software e reduzir o risco de falha do software em operação.
+Um equívoco comum do teste é que ele consiste apenas em executar testes, ou seja, executar o sofware e verificar os resultados.
+O teste de software é um processo que inclui muitas atividades diferentes, e a execução do teste é apenas uma dessas atividades.
+
+## O Processo de teste inclui atividades:
+
+* Planejamento de teste
+* Monitoramento e controle do teste
+* Análise
+* Modelagem
+* Implementação dos teste
+* Execução do teste (Relatórios de progresso)
+* Resultado de teste
+
+
+
 
 
