@@ -51,6 +51,34 @@ O teste de software é um processo que inclui muitas atividades diferentes, e a 
 * Execução do teste (Relatórios de progresso)
 * Resultado de teste
 
+## Teste dinâmico e teste estático
+
+Os testes estático e dinâmico pode ter os mesmos objetivos, como fornecer uma avaliação da qualidade dos produtos de trabalho e identificar os defeitos o mais
+cedo possível.
+
+O **Teste Dinâmico** envolvem a execução de um componente ou sistema que está sendo testado.
+
+O **Teste Estático** não envolvem a execução do componente ou sistema que está sendo testado, assim teste revisão de produtos de trabalho, como requisitos, histórias
+de usuário e código-fonte.
+
+![image](https://user-images.githubusercontent.com/106537496/213721097-87d06d5c-308a-4d56-8ab2-1978884e9158.png)
+
+
+## Objetivos típicos do teste
+
+* Evitar defeitos, avaliar os produtos de trabalho, como requisitos, história de usuários, modelagem e código;
+* **Verificar(Estamos construido certo o produtos)** se todos os requisitos especificados foram cumpridos;
+* Verificar se o objetivo de teste está completo e **Validar(Estamos construido o produto certo)** se funciona como os usuários e stakeholders(são pessoas,
+grupos ou organizações) esperam;
+* Criar confiança no nível de qualidade do objetivo de teste;
+* Encontrar defeitos e falhas reduz o nível de risco de qualidade inadequada do software;
+* Fornecer informações suficientes aos stakeholders para que tomem decisões especialmente em relação ao nível de qualidade do objetivo do teste;
+* Cumprir os requisitos ou normas contratuais, legais ou regulamentares, ou verificar a conformidade do objeto de teste com esses requisitos ou normas.
+
+
+
+
+
 
 
 
