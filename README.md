@@ -1,5 +1,5 @@
 
-<h1 align="center"> Quality Assurence (Garantia de Qualidade) </h1>
+<h1 align="center"> Quality Assurance (Garantia de Qualidade) </h1>
 
 <p align= "center">
 Bootcamp exclusivo e gratuito, promovido pela DIO e empresa GFT para
