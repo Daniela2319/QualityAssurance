@@ -1,6 +1,23 @@
-# Quality Assurence (Garantia de Qualidade)
 
-## Objetivos de QA
+<h1 align="center"> Quality Assurence (Garantia de Qualidade) </h1>
+
+<p align= "center">
+Bootcamp exclusivo e gratuito, promovido pela DIO e empresa GFT para
+ensino de tecnologias QA. </p>
+
+<p align="center">
+<a href="#-objetivosdeQA">Objetivos</a>&nbsp;&nbsp;&nbsp;|&nbsp;
+&nbsp;&nbsp;
+<a href="#-oqueeteste">O que é Teste?</a>&nbsp;&nbsp;&nbsp;|&nbsp;
+&nbsp;&nbsp;
+<a href="#memo-importanciadaqualidadedosoftware">Importancia da Qualidade do Software</a>
+</p>
+
+<p align="center">
+<img alt="Bootcamp QA GFT" src="https://user-images.githubusercontent.com/106537496/219980394-c7c21089-b58d-4b32-9d4d-c986fc34f27f.png" width="50%"></p>
+
+
+## Objetivos 
 
 Pode se definida como um conjunto de ações que as empresas realizam com o objetivo de entregar aos consumidores
 um produto ou serviço com alto nível de qualidade. No desenvolvimento de software, aplicar os métodos de QA geram
@@ -35,7 +52,7 @@ Para um mesmo cargo podemos ter perfis e responsabilidades diferentes:
 * Testes manuais
 * Testes automatizados: UI/Interface, APIs e Performance/Desempenho.
 
-# O que é teste?
+# O que é Teste?
 
 O teste de software é uma maneira de avaliar a qualidade do software e reduzir o risco de falha do software em operação.
 Um equívoco comum do teste é que ele consiste apenas em executar testes, ou seja, executar o sofware e verificar os resultados.
