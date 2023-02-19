@@ -52,13 +52,13 @@ Para um mesmo cargo podemos ter perfis e responsabilidades diferentes:
 * Testes manuais
 * Testes automatizados: UI/Interface, APIs e Performance/Desempenho.
 
-# O que é Teste?
+# O Que é Teste?
 
 O teste de software é uma maneira de avaliar a qualidade do software e reduzir o risco de falha do software em operação.
 Um equívoco comum do teste é que ele consiste apenas em executar testes, ou seja, executar o sofware e verificar os resultados.
 O teste de software é um processo que inclui muitas atividades diferentes, e a execução do teste é apenas uma dessas atividades.
 
-## O Processo de teste inclui atividades:
+## O Processo de Atividade de Teste
 
 * Planejamento de teste
 * Monitoramento e controle do teste
@@ -68,7 +68,7 @@ O teste de software é um processo que inclui muitas atividades diferentes, e a 
 * Execução do teste (Relatórios de progresso)
 * Resultado de teste
 
-## Teste dinâmico e teste estático
+## Teste Dinâmico e Estático
 
 Os testes estático e dinâmico pode ter os mesmos objetivos, como fornecer uma avaliação da qualidade dos produtos de trabalho e identificar os defeitos o mais
 cedo possível.
@@ -81,7 +81,7 @@ de usuário e código-fonte.
 ![image](https://user-images.githubusercontent.com/106537496/213721097-87d06d5c-308a-4d56-8ab2-1978884e9158.png)
 
 
-## Objetivos típicos do teste
+## Objetivos Típicos do Teste
 
 * Evitar defeitos, avaliar os produtos de trabalho, como requisitos, história de usuários, modelagem e código;
 * **Verificar(Estamos construido certo o produtos)** se todos os requisitos especificados foram cumpridos;
