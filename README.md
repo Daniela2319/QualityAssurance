@@ -75,8 +75,13 @@ grupos ou organizações) esperam;
 * Fornecer informações suficientes aos stakeholders para que tomem decisões especialmente em relação ao nível de qualidade do objetivo do teste;
 * Cumprir os requisitos ou normas contratuais, legais ou regulamentares, ou verificar a conformidade do objeto de teste com esses requisitos ou normas.
 
+## Importancia da Qualidade do Software
 
+A Importancia é avaliar a qualidade do software desde do começo até a entrega do produto.
+Por que dessa maneira verifica a qualidade do software para reduzir os risco que podem ocorrerem falhas e encontrado bug pode esta sempre
+surgindo no software e assim garantir a qualidade do produto.
 
+## O Presente e o Fututo da Aréa de Qualidade
 
 
 
