@@ -83,6 +83,16 @@ surgindo no software e assim garantir a qualidade do produto.
 
 ## O Presente e o Fututo da Aréa de Qualidade
 
+O analista de qualidade, não é só fazer testes, encontrar falhas e acompanhar o processo do desenvolvimento do software.
+Analista esta ali para garantir que os requesitos estão sendo atendidos, usuário final vai ter uma experiência desejada e boa.
+Isso que vai trazer retorno para empresa que é foca muito na experiência do usuário final.
+Porque nossos usuários estão cada vez mais exigentes por isso devemos foca:
+
+* Performance
+* Acessibilidade
+* Segurança
+* Usabilidade
+
 
 
 
