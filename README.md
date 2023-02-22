@@ -121,3 +121,5 @@ Ex: começo no processo do software aquilo se faz agente conseguir metas, ter cr
 
 
 
+
+
