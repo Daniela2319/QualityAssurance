@@ -110,6 +110,12 @@ Porque nossos usuários estão cada vez mais exigentes por isso devemos foca:
 * Segurança
 * Usabilidade
 
+## Aspectos Importantes
+
+* O **requesito** de software são a base para medir qualidade.
+
+Ex: começo no processo do software aquilo se faz agente conseguir metas, ter critérios como saber testar e como testar, comunicação com o cliente. 
+É aparti dos requisitos.
 
 
 
