@@ -114,8 +114,18 @@ Porque nossos usuários estão cada vez mais exigentes por isso devemos foca:
 
 * O **requesito** de software são a base para medir qualidade.
 
-Ex: começo no processo do software aquilo se faz agente conseguir metas, ter critérios como saber testar e como testar, comunicação com o cliente. 
-É aparti dos requisitos.
+_começo no processo do software aquilo se faz agente conseguir metas, ter critérios como saber testar e como testar, comunicação com o cliente. 
+É aparti dos requisitos._ 
+
+* Padrões especificos definem conjunto de critérios de desenvolvimento.
+
+_focado em implementação_
+
+* Existem _requisitos implícitos_ que não são mencionados que afetam diretamente a qualidade.
+
+_clientes tem uma ideia na usa cabeça do que ele deseja do software, não sabe de tudo que ele precisa que à necessidade dele seja atendida tão além
+dos requisitos funcionais chegue ao seu objetivos para usuários final. Existe requisitos que são implicitos todo profissional ao desenvolver um software ele tem
+que ter em mente toda essa percepção(capacidade do cérebro de entender o que os olhos vêem) do usuário de requisitos de usuário e visão._
 
 
 
