@@ -137,9 +137,9 @@ _Exemplo: erro de compreensão de requisito, que o QA pode entender errado o cli
 
 _como QA não entendeu o cliente na geração requerimento pode levar a um defeito._
 
-**Falha de Sistema: Evento no qual o sistema não executa uma função sob limites especificos. 
+**Falha de Sistema**: Evento no qual o sistema não executa uma função sob limites especificos. 
 
-
+_falha de sistema de recurso, falta de memoria, processamento do cpu._
 
 
 
