@@ -127,7 +127,17 @@ _clientes tem uma ideia na usa cabeça do que ele deseja do software, não sabe 
 dos requisitos funcionais chegue ao seu objetivos para usuários final. Existe requisitos que são implicitos todo profissional ao desenvolver um software ele tem
 que ter em mente toda essa percepção(capacidade do cérebro de entender o que os olhos vêem) do usuário de requisitos de usuário e visão._
 
+## Erro, Defeitos e Falhas (bug)
 
+**Erro**: Ação humana que produz um resultado incorreto.
+
+_Exemplo: erro de compreensão de requisito, que o QA pode entender errado o cliente_
+
+**Defeito**: Imperfeição ou deficiência relacionadas aos requerimentos. Defeito causado pelo erro.
+
+_como QA não entendeu o cliente na geração requerimento pode levar a um defeito._
+
+**Falha de Sistema: Evento no qual o sistema não executa uma função sob limites especificos. 
 
 
 
