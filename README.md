@@ -61,6 +61,29 @@ O teste de software é um processo que inclui muitas atividades diferentes, e a 
 ## O Processo de Atividade de Teste
 
 * Planejamento de teste
+
+⚪ Definir propósito do teste
+
+⚪ Definir a abordagem do teste de acordo com restrições do contexto
+
+⚪ Especificar tarefas e estimativas de prazos
+
+⚪ Algumas estratégias:
+
+ ♦️ Analítica: baseada na análise de algum fatos
+ 
+ ♦️ Baseada em modulo: projetados com base em modelo de algum aspecto necessário do produto ( modelo de processo de negócio, de estado, de requisito não funcionais)
+ 
+ ♦️ Metódica: conjunto pré-definido de teste, comparando as caracteristicas de qualidades importantes.
+ 
+ ♦️ Compatível com processo: baseado em padrões definidos pela organização.
+ 
+ ♦️ Dirigida: orientada pelos stakeholdes.
+ 
+ ♦️ Regressão: evitar regressão de recursos existentes.
+ 
+ ♦️ Reativo: é reativo ao componente ou sistema e aos eventos que ocorrem durante a execução.
+ 
 * Monitoramento e controle do teste
 * Análise
 * Modelagem
